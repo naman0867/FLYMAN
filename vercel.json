@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/", "dest": "/flyman_mvp_app.html" }
+  ]
+}
